@@ -1,0 +1,40 @@
+asin((-0.4)*0b111.001)=
+(asin((-0.400000)*7.125000))=
+Arg of 'asin' to be located in [-1....1]
+0o29813+999*(87*acth(-45))=
+ERROR 202: Unexpected character '9' at 4 position
+()*(0xAD45*-sin(558229))=
+(()*(44357.000000*-sin(558229.000000)))=
+ERROR 209: Wrong value at 3 position
+4+87-5674+-0o2342=
+(4.000000+87.000000-5674.000000+-1250.000000)=
+-6833.000000
+(4332*(2422*-0o13131-atg())*exp(ln(0xADC.CA4))-asin(3/2))=
+((4332.000000*(2422.000000*-5721.000000-atg())*exp(ln(2780.790039))-asin(3.000000/2.000000)))=
+ERROR 209: Wrong value at 13 position
+log(2)_(-+pow(3/41)_(sin(0.13)*cos(2)*-84.235))=
+(log(2.000000)_(-+pow(3.000000/41.000000)_(sin(0.130000)*cos(2.000000)*-84.235000)))=
+Unexpected arg value in 'log'
+ath(2)=
+(ath(2.000000))=
+Arg of ath to be in (-1....+1)
+cos(5242)*ashn(ln(345))=
+ERROR 203: unable to find  this func:
+ashn
+pow(23*94*cos(-7)*sh(-5))_(pow(2)_(log(1.1)_(12456698.665)))=
+(pow(23.000000*94.000000*cos(-7.000000)*sh(-5.000000))_(pow(2.000000)_(log(1.100000)_(12456698.665000))))=
+Pow arguments bigger than expected
+pow(sin(0.7))_(tg(-1.5))=
+(pow(sin(0.700000))_(tg(-1.500000)))=
+493.072844
+log(2)__(-45)=
+(log(2.000000)__(-45.000000))=
+ERROR 208: Simbol '('  to be landed one position right '_', like this: 'func(arg1)_(arg2)'
+log(2)_(-45)=
+(log(2.000000)_(-45.000000))=
+Unexpected arg value in 'log'
+0x0.0AD*ctg(4)+-0b35312*+(-+442/-532)*th(-231*log(10)_(1.3))=
+ERROR 202: Unexpected character '3' at 19 position
+0x0.0AD*ctg(4)+-0o35312*+(-+442/-532)*th(-231*log(10)_(1.3))=
+(0.042236*ctg(4.000000)+-15050.000000*+(-+442.000000/-532.000000)*th(-231.000000*log(10.000000)_(1.300000)))=
+-12503.910889
